@@ -3,5 +3,5 @@ def upper_text(str_:str):
     return str_.upper()
 
 def title_text(str_:str):
-    """Делает первые буквы слов заглавными"""
+    """Делает первые буквы слов заглавными. Минимальное улучшение"""
     return str_.title()
